@@ -1,5 +1,4 @@
 💫 About Me:
-Hello WOrld
 I’m a passionate Programmer and a proud (UM) currently developing my Capstone Project Profile. I enjoy building meaningful, efficient, and scalable solutions that solve real-world problems. Programming isn’t just something I study — it’s something I actively explore, practice, and continuously improve at every day.
 
 As a developer, I’m particularly interested in software design, system architecture, and writing clean, maintainable code. I enjoy breaking down complex problems into logical components and finding practical solutions through technology. Whether working independently or collaborating within a team, I focus on writing reliable code and continuously learning new tools and frameworks.
